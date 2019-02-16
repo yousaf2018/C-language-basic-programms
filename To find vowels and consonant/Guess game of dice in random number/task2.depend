@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548413213 source:c:\users\hasnaat computers\desktop\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

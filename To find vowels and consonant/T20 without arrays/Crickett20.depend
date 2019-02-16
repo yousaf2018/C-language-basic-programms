@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549301471 source:c:\users\hasnaat computers\desktop\crickett20\main.c
+	<stdlib.h>
+	<time.h>
+

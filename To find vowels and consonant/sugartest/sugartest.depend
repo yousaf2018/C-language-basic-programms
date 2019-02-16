@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548377180 source:c:\users\hasnaat computers\desktop\sugartest\main.c
+	<stdio.h>
+	<stdlib.h>
+

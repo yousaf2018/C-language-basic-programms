@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549744496 source:c:\users\hasnaat computers\desktop\projectt20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1549775513 source:c:\users\hasnaat computers\desktop\1802011t20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1549775513 source:c:\users\hasnaat computers\desktop\t20 in arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

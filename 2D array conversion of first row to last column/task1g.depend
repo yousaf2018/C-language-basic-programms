@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550223438 source:c:\users\hasnaat computers\desktop\task1g\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1550223438 source:c:\users\hasnaat computers\desktop\2d array conversion of first row to last column\main.c
+	<stdio.h>
+	<stdlib.h>
+
