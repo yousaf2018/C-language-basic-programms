@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551072764 source:c:\users\hasnaat computers\desktop\function for employ management system\main.c
+	<stdio.h>
+	<string.h>
+
